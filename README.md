@@ -64,7 +64,9 @@ After the anaylysis on SQL it was Exported from  MYSQL Workbench to MS Excel Sof
 After Importing it from MYSQL Workbench Software to MS Excel Software the final step was Performed of visualising the data in a Dashboard to get all the KPI's and Chart requirnment at the same place. 
 
 ## Dashboard Created:
-![image](https://github.com/yash-9300/Pizza-Sales/assets/142987184/cafbfd07-0d5e-4bcc-82b4-e593f013caaf)
+
+![image](https://github.com/yash-9300/Pizza_Sales_Analysis/assets/142987184/b592b5f6-a7b6-4d39-9362-28f74aa7883f)
+
 
 
 
